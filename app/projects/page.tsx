@@ -14,7 +14,7 @@ export default function Home() {
 
             {/* Siemens Energy Project */}
             <h2 className="font-bold text-md mb-1 tracking-tight">High Speed Current Detection Circuit for Gas Insulated Switchgear Flashover Detection</h2>
-            <p className="text-neutral-400 font-medium dark:text-neutral-400 text-sm">Siemens Energy Ltd.</p>
+            <p className="text-neutral-400 font-medium dark:text-neutral-400 text-sm">Siemens Energyy Ltd.</p>
             <Image
             className="m-5"
               src="/gis.png"
